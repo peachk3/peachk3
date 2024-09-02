@@ -1,6 +1,6 @@
-## Hi
-
 ## 박도경
+## About Me
+
 
 <!--
 **peachk3/peachk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
