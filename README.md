@@ -1,7 +1,7 @@
 <!-- 대문 -->
 <p align='center'>
   <a href="https://github.com/peachk3">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Peach's%20Repo&fontColor=6600FF&fontAlign=50&animation=fadeIn&fontAlignY=45&fontSize=60&desc=Cpp,%20Java,%20Python&descAlign=50&descAlignY=60"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Peach's%20Repo&fontColor=6600FF&fontAlign=50&animation=fadeIn&fontAlignY=45&fontSize=60&desc=C/Cpp,%20Java,%20Python&descAlign=50&descAlignY=60"/>
   </a>
 </p>
 
@@ -26,6 +26,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Skills </h2>
   <div style="text-align: left;">
     <h4> Platform & Languages </h4>
+          <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">&nbsp
