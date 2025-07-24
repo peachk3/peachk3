@@ -80,6 +80,14 @@
         TypingGame 만들기
       </p>
     </div>
+    <div align="left">
+      <a href="https://github.com/peachk3/iot-miniproject-2025.git">
+        <img src="https://img.shields.io/badge/Project3-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white">
+      </a>
+      <p>
+        MES 공정관리 시큘레이션
+      </p>
+    </div>
 
   </div> 
 </div>
