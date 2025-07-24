@@ -14,7 +14,8 @@
       </p>
     </div>
     <div align= "left"> 
-      <h6>Contact Me</h6><img src="https://img.shields.io/badge/doo062991@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact Me </h2>
+      <img src="https://img.shields.io/badge/doo062991@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
     </div> 
 </div>
 <div style="text-align: left;"> 
@@ -88,7 +89,6 @@
         MES 공정관리 시큘레이션
       </p>
     </div>
-
   </div> 
 </div>
 <!-- githubAnimail -->
