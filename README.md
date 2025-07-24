@@ -10,7 +10,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Profile </h2>
     <div align="left">
       <p>
-        안녕하세요. 꾸준히 성장하고 싶은 개발자 꿈나무입니다.
+        안녕하세요. 끈기와 성실함으로 성장하는 개발자 꿈나무입니다.
       </p>
     </div>
     <div align= "left"> 
