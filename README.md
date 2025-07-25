@@ -83,10 +83,18 @@
     </div>
     <div align="left">
       <a href="https://github.com/peachk3/iot-miniproject-2025.git">
-        <img src="https://img.shields.io/badge/Project4-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white">
+        <img src="https://img.shields.io/badge/MiniProject1-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white">
       </a>
       <p>
         MES 공정관리 시큘레이션
+      </p>
+    </div>
+    <div align="left">
+      <a href="https://github.com/peachk3/iot-raspiProject-2025.git">
+        <img src="https://img.shields.io/badge/MiniProject2-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white">
+      </a>
+      <p>
+        온/습도 관리 컨트롤
       </p>
     </div>
   </div> 
